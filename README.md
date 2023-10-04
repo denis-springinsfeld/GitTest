@@ -1,7 +1,7 @@
 # GitTest
 
 
-Test
+First Commit
 
 
 git config --global user.name "votre nom"
